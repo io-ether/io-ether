@@ -74,6 +74,28 @@
       margin-top: 48px;
       font-size: 0.95rem;
     }
+
+    .pills {
+      margin: 24px 0 40px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+.pills a {
+      text-decoration: none;
+      color: #2d4b63;
+      border: 1px solid #d8dde2;
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: #fff;
+      font-size: 0.95rem;
+    }
+
+.pills a:hover {
+      background: #eef2f5;
+    }
+    
   </style>
 </head>
 <body>
@@ -81,17 +103,22 @@
     <h1>Internal</h1>
     <div class="sub">この場所にだけ置く、断章と画像のための頁。</div>
 
-    <section>
+    <div class="pills">
+      <a href="#fragments">Fragments</a>
+      <a href="#images">Images</a>
+    </div>
+    
+    <section id="fragments">
       <h2>Fragments</h2>
       <ul>
         <li><a href="fragment_01.html">Fragment 01 — 夜の水面</a></li>
       </ul>
     </section>
 
-    <section>
+    <section id="Images">
       <h2>Images</h2>
       <ul>
-        <li><a href="image_resonantia.html">Steps in the Silent City</a></li>
+        <li><a href="image_resonantia.html">Steps in the Silent City (Elaine)</a></li>
       </ul>
     </section>
 
