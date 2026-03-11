@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fragment 06 | io</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont,
+        "Hiragino Kaku Gothic ProN",
+        "Yu Gothic UI",
+        "Meiryo",
+        sans-serif;
+      background: #f8f9fa;
+      color: #222;
+      line-height: 2;
+    }
+
+    .wrap {
+      max-width: 620px;
+      margin: 0 auto;
+      padding: 72px 24px 96px;
+    }
+
+    .meta {
+      color: #6b7280;
+      font-size: 0.9rem;
+      margin-bottom: 12px;
+    }
+
+    h1 {
+      font-size: 1.35rem;
+      font-weight: 500;
+      margin: 0 0 36px;
+    }
+
+    .fragment {
+      font-size: 1rem;
+      white-space: pre-line;
+    }
+
+    .back {
+      margin-top: 56px;
+      font-size: 0.95rem;
+    }
+
+    a {
+      color: #3b5a73;
+      text-decoration: none;
+      border-bottom: 1px solid #d8dde2;
+    }
+
+    a:hover {
+      color: #1f3a4f;
+      border-bottom: 1px solid #1f3a4f;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="meta">Fragment 06</div>
+    <h1>春分の語り（口伝）</h1>
+
+    <div class="fragment">
+はじめ、
+この地に境はなかった。
+
+丘は丘として在り、
+川は川として流れ、
+人はただ、そこに住んでいた。
+
+けれどある年、
+外より人が来た。
+
+山の向こうから、
+川の向こうから、
+武具を携え、この地を越えんとした。
+
+人々は逃げ、
+丘に集まり、
+行き場を失った。
+
+そのとき、
+ひとりの女が丘に立った。
+
+その手に、
+澄んだ水を携えて。
+
+女は石のくぼみに水を注ぎ、
+長く祈った。
+
+言葉は残らない。
+
+ただ、人々は見た。
+
+空が静まり、
+風がひとつの流れとなり、
+地の気が互いに結びあうのを。
+
+そのとき、境が立った。
+
+見えず、
+触れられず、
+それでも確かに在る境。
+
+外より来た軍は、
+丘に近づくことができなかった。
+
+道は乱れ、
+風は向きを変え、
+彼らはやがて退いた。
+
+人は後にそれを
+結界と呼んだ。
+
+女はやがて姿を消した。
+
+ただ水は残り、
+泉となり、
+その場所に聖堂が建った。
+
+ゆえに人は語る。
+
+この国のはじめに
+ひとりの女がいた、と。
+
+その身が神であったのか、
+ただの人であったのかは
+いまも定まらない。
+
+ただ、春分の日、
+水が注がれ、
+祈りがなされ、
+境が立ち、
+この地は守られたとだけ
+伝えられている。
+    </div>
+
+    <div class="back">
+      <a href="../archive_resonantia.html">← back</a>
+    </div>
+  </div>
+</body>
+</html>
